@@ -19,7 +19,8 @@ namespace facultad.Entidades
         public int Antiguedad { get => (DateTime.Now - FechaIngreso).Days /365 ; }
         protected override void GetCredencial()
         { }
-        
+        protected abstract bool ListarEmpleados(bool listarConId);
+       
 
 
     }
