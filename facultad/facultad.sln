@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facultad", "facultad\facultad.csproj", "{9DAA49F5-467C-40B9-A112-7D4B1A82610D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAA49F5-467C-40B9-A112-7D4B1A82610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA49F5-467C-40B9-A112-7D4B1A82610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA49F5-467C-40B9-A112-7D4B1A82610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA49F5-467C-40B9-A112-7D4B1A82610D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A8FC91-2354-429C-83D2-ED67EF766274}
+	EndGlobalSection
+EndGlobal
