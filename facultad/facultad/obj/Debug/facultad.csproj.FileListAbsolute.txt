@@ -1,0 +1,10 @@
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\bin\Debug\facultad.exe.config
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\bin\Debug\facultad.exe
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\bin\Debug\facultad.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.Form1.resources
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.exe
+C:\Users\tomas\OneDrive\Documentos\GitHub\ejercicio01_facultad\facultad\facultad\obj\Debug\facultad.pdb

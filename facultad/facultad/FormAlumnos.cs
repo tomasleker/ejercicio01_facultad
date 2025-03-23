@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace facultad
 {
-    public partial class Form1 : Form
+    public partial class FormAlumnos : Form
     {
-        public Form1()
+        public FormAlumnos()
         {
             InitializeComponent();
-        }
-
-        private void buttonSaludar_Click(object sender, EventArgs e)
-        {
-        string nombre = textName.Text;
-            MessageBox.Show("Hola "+ nombre);
         }
     }
 }
