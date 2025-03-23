@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace facultad.Entidades
 {
-    internal class Alumno
+    public class Alumno : Persona
     {
+        public int _id;
+        protected override void GetCredencial() { }
+         
     }
 }
